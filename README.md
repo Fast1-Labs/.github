@@ -48,7 +48,7 @@ We welcome contributions and collaborations! If you're interested in working wit
 
 - **Location**: Türkiye 🇹🇷  
 - **LinkedIn**: [Fast1 Labs](https://www.linkedin.com/company/fast-1)
-- **Mail**: [Fast1 Labs](anil.yavas99@gmail.com)  
+- **Mail**: anil.yavas99@gmail.com 
   
 
 Let's innovate together and create solutions that make a difference!
