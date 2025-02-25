@@ -8,7 +8,7 @@ Welcome to **Fast1 Labs**, where we blend innovation with technology to create i
 
 Here’s a glimpse into some of our key projects:
 
-### 1. Fast1
+### 1. Fast 1
 **Description**: An F1 application providing seasonal information, including race schedules, driver standings, and more.  
 
 **Technologies**: React Native, TypeScript  
@@ -25,14 +25,14 @@ Here’s a glimpse into some of our key projects:
 ### 3. ChefBuddy
 **Description**: An AI-powered recipe generator app that assists users in discovering new recipes based on available ingredients.  
 
-**Technologies**: React Native, TypeScript  
+**Technologies**: React Native, TypeScript, OpenaiAPI  
 
 **Repository**: [ChefBuddy](https://github.com/Fast1-Labs/ChefBuddy)  
 
 ### 4. AI Voice Assistant
 **Description**: An AI assistant designed to help users anytime, anywhere with voice-activated commands.  
 
-**Technologies**: React Native, TypeScript  
+**Technologies**: React Native, TypeScript, OpenaiAPI  
 
 **Repository**: [AI Voice Assistant](https://github.com/Fast1-Labs/AI-Voice-Assistant)  
 
