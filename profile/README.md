@@ -36,6 +36,13 @@ Here’s a glimpse into some of our key projects:
 
 **Repository**: [AI Voice Assistant](https://github.com/Fast1-Labs/AI-Voice-Assistant)  
 
+### 5. Fitly
+**Description**: A fitness app designed to be your fitness paper, nutrition tracker and water intake tracker. 
+
+**Technologies**: React Native, TypeScript
+
+**Repository**: [AI Voice Assistant](https://github.com/Fast1-Labs/Fitly)  
+
 ## Get Involved
 
 We welcome contributions and collaborations! If you're interested in working with us or have ideas to share, feel free to:
