@@ -8,7 +8,7 @@ Welcome to **Fast1 Labs**, where we blend innovation with technology to create i
 
 Here’s a glimpse into some of our key projects:
 
-### 1. Fast 1
+### 1. Fast 1 (Changed to private repository since it is on production)
 **Description**: An F1 application providing seasonal information, including race schedules, driver standings, and more.  
 
 **Technologies**: React Native, TypeScript  
