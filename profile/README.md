@@ -13,6 +13,7 @@ Here’s a glimpse into some of our key projects:
 
 **Technologies**: React Native, TypeScript  
 
+**App Store**: [Fast1](https://apps.apple.com/tr/app/fast-1/id6742183216)
 **Repository**: [Fast1](https://github.com/Fast1-Labs/Fast1)  
 
 ### 2. Cryptography
