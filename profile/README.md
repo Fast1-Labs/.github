@@ -8,7 +8,7 @@ Welcome to **Fast1 Labs**, where we blend innovation with technology to create i
 
 Here’s a glimpse into some of our key projects:
 
-### 1. Fast 1 (Changed to private repository since it is on production)
+### 1. Fast 1 (Live on App Store)
 **Description**: An F1 application providing seasonal information, including race schedules, driver standings, and more.  
 
 **Technologies**: React Native, TypeScript  
@@ -42,7 +42,14 @@ Here’s a glimpse into some of our key projects:
 
 **Technologies**: React Native, TypeScript
 
-**Repository**: [AI Voice Assistant](https://github.com/Fast1-Labs/Fitly)  
+**Repository**: [Fitly](https://github.com/Fast1-Labs/Fitly)
+
+### 6. GeoShock
+**Description**: An earthquake awareness application that aims to provide guidelines before, after and at the time of earthquake with current data of earthquakes and positions with respect to user's location. 
+
+**Technologies**: React Native, TypeScript
+
+**Repository**: [GeoShock](https://github.com/Fast1-Labs/GeoShock)  
 
 ## Get Involved
 
