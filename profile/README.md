@@ -1,8 +1,8 @@
-# Welcome to Fast1 Labs 🚀
+# Welcome to Softwave 🚀
 
 **Innovating Technology with Passion**
 
-Welcome to **Fast1 Labs**, where we blend innovation with technology to create impactful solutions. Our team is dedicated to developing applications that enhance user experiences across various domains.
+Welcome to **Softwave**, where we blend innovation with technology to create impactful solutions. Our team is dedicated to developing applications that enhance user experiences across various domains.
 
 ## Our Projects
 
