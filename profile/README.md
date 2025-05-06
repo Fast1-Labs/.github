@@ -62,7 +62,7 @@ We welcome contributions and collaborations! If you're interested in working wit
 ## Connect with Us
 
 - **Location**: Türkiye 🇹🇷  
-- **LinkedIn**: [Fast1 Labs](https://www.linkedin.com/company/fast-1)
+- **LinkedIn**: [Fast1 Labs](https://www.linkedin.com/company/softwave-technology)
 - **Mail**: anil.yavas99@gmail.com 
   
 
